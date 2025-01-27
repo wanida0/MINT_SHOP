@@ -1,1 +1,1 @@
-# MINT_SHOP
+# mint
